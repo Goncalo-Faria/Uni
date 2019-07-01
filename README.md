@@ -38,9 +38,9 @@
 
   * (18) [Comunicações por Computador](https://github.com/Goncalo-Faria/GCVFTP)
 
-  * (18) Processamento de Linguagens 1
-  
   * (19) Processamento de Linguagens 1
+  
+  * (18) Processamento de Linguagens 1
 
   * (19) Processamento de Linguagens 1
 
