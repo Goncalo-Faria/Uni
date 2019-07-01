@@ -36,7 +36,7 @@
 
   * (19) Sistemas de Representação de Conhecimento e Raciocínio
 
-  * (18) [Comunicações por Computador]()
+  * (18) [Comunicações por Computador](https://github.com/Goncalo-Faria/GCVFTP)
 
   * (18) Processamento de Linguagens 1
   
@@ -46,7 +46,7 @@
 
   * (19) [Laboratórios de Informática IV]()
 
-  * (17) [Computação Gráfica]()
+  * (17) [Computação Gráfica](https://github.com/Goncalo-Faria/CG-PROJETO)
 
   * (19) Métodos Estocásticos de Investigação Operacional
 
