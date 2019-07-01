@@ -38,11 +38,11 @@
 
   * (18) [Comunicações por Computador](https://github.com/Goncalo-Faria/GCVFTP)
 
-  * (19) Processamento de Linguagens 1
+  * (19) [Processamento de Linguagens 1](https://github.com/Goncalo-Faria/Angola-Jornal)
   
-  * (18) Processamento de Linguagens 1
+  * (18) Processamento de Linguagens 2
 
-  * (19) [Processamento de Linguagens 1](https://github.com/Goncalo-Faria/Thesaurus)
+  * (19) [Processamento de Linguagens 3](https://github.com/Goncalo-Faria/Thesaurus)
 
   * (19) [Laboratórios de Informática IV](https://github.com/Goncalo-Faria/ACE-it---Cooking-assistant)
 
