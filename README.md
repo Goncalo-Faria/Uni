@@ -40,7 +40,7 @@
 
   * (19) [Processamento de Linguagens 1](https://github.com/Goncalo-Faria/Angola-Jornal)
   
-  * (18) Processamento de Linguagens 2
+  * (18) [Processamento de Linguagens 2](https://github.com/Goncalo-Faria/Cartas-setecentistas)
 
   * (19) [Processamento de Linguagens 3](https://github.com/Goncalo-Faria/Thesaurus)
 
