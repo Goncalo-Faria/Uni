@@ -5,7 +5,7 @@
 
 ## 1.º ano - 1.º Semestre
 
-  * (20) [Laboratórios de Informática I]((https://github.com/Goncalo-Faria/Micro-Machines-Haskell-)
+  * (20) [Laboratórios de Informática I](https://github.com/Goncalo-Faria/Micro-Machines-Haskell-)
 
 ## 1.º ano - 2.º Semestre
 
