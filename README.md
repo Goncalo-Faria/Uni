@@ -44,7 +44,7 @@
 
   * (19) Processamento de Linguagens 1
 
-  * (19) [Laboratórios de Informática IV]()
+  * (19) [Laboratórios de Informática IV](https://github.com/Goncalo-Faria/ACE-it---Cooking-assistant)
 
   * (17) [Computação Gráfica](https://github.com/Goncalo-Faria/CG-PROJETO)
 
