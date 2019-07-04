@@ -34,7 +34,7 @@
 
 ## 3.º ano - 2.º Semestre
 
-  * (19) Sistemas de Representação de Conhecimento e Raciocínio
+  * (19) [Sistemas de Representação de Conhecimento e Raciocínio](https://github.com/Goncalo-Faria/SRCR)
 
   * (18) [Comunicações por Computador](https://github.com/Goncalo-Faria/GCVFTP)
 
