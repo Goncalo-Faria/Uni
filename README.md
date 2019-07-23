@@ -1,5 +1,5 @@
 <div align="center">
-	<h1><strong>University Projects</strong></h1>
+	<h1><strong>Bachelor's Degree University Projects</strong></h1>
 </div>
 
 
