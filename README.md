@@ -48,5 +48,5 @@
 
   * (17) [Computação Gráfica](https://github.com/Goncalo-Faria/CG-PROJETO)
 
-  * (19) Métodos Estocásticos de Investigação Operacional
+  * (19) [Métodos Estocásticos de Investigação Operacional](https://github.com/Goncalo-Faria/Meio)
 
